@@ -1,5 +1,13 @@
 {
   "name": "activite-robot-claude-code",
-  "owner": { "name": "fredfokan" },
-  "plugins": [{ "name": "robot-activite", "source": "./" }]
+  "owner": {
+    "name": "Frederic Fokan",
+    "email": "frederic.fokan@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "robot-activite",
+      "source": "./"
+    }
+  ]
 }

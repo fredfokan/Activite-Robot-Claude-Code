@@ -40,3 +40,7 @@ Sinon, tape `/ce-que-fait-claude` pour l'ouvrir.
 
 Sur le bureau, dans VS Code et sur mobile, le robot est un SVG animé. Le terminal n'affichant pas le SVG,
 le même dessin y est converti en pixels de couleur, animés quatre fois par seconde.
+
+## Licence
+
+MIT — © 2026 Frederic Fokan. Voir le fichier [LICENSE](LICENSE).

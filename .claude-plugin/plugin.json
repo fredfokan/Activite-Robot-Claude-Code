@@ -1,1 +1,11 @@
-{ "name": "robot-activite", "version": "0.1.0", "description": "Panneau « Ce que fait Claude » : un robot orange animé et la liste des actions en français simple", "types": "./types/index.d.ts" }
+{
+  "name": "robot-activite",
+  "version": "0.1.0",
+  "description": "Panneau « Ce que fait Claude » : un robot orange animé et la liste des actions en français simple",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Frederic Fokan",
+    "email": "frederic.fokan@gmail.com"
+  },
+  "license": "MIT"
+}
