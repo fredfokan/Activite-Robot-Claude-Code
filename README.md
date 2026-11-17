@@ -2,6 +2,8 @@
 
 Un mod pour Claude Code qui ajoute à droite de la conversation un panneau **« Ce que fait Claude »**.
 
+![Le panneau « Ce que fait Claude » à droite d'une session Claude Code](docs/apercu.png)
+
 En haut, un petit robot orange animé, dessiné en formes vectorielles :
 
 - il **dort** (yeux fermés, petits « z ») quand Claude ne fait rien ;
@@ -9,6 +11,8 @@ En haut, un petit robot orange animé, dessiné en formes vectorielles :
 - il **écrit avec un crayon** quand Claude crée ou modifie un fichier ;
 - il **cherche avec des jumelles** quand Claude fait une recherche ;
 - il **saute de joie** quand Claude a terminé.
+
+![Le robot qui se repose, qui écrit, puis qui a terminé](docs/etats.png)
 
 En dessous, la liste des actions en français simple, avec une icône et l'heure, par exemple
 `📖 Je lis « devis.pdf »` ou `✏️ Je crée « recap.md »`.
